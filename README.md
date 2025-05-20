@@ -15,6 +15,7 @@ To create a comprehensive sales dashboard that enables business stakeholders to 
 | File | Description |
 |------|-------------|
 | `sales_dashboard_jaymin_patel.xlsx` | Main Excel file with data, analysis, and dashboards |
+| `Dashboard.pdf` | Full view of dashboard |
 
 ---
 
